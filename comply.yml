@@ -1,0 +1,8 @@
+name: Privo IT
+filePrefix: Privo
+tickets:
+  github:
+    repo: Privo
+    token: f933d87a7d80b0623f72148aa75fb226ab88376c
+    username: jnn@jnngroup.com
+approvedBranch: ""
