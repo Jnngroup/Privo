@@ -20,7 +20,8 @@ a. Workstation devices must meet the following criteria:
 
     i. Operating system must be no more than one generation older than current
 
-    i. Device must be encrypted at rest. Hard drives are encrypted with whole drive encryption software. For Windows PC’s use BitLocker. For Mac PC’s use Filevault. The recovery key for encryption should be stored in Active Directory.
+    i. Device must be encrypted at rest. Hard drives are encrypted with whole drive encryption software. For Windows PC’s use BitLocker.
+    For Mac PC’s use Filevault. The recovery key for encryption should be stored in Active Directory.
 
     i. Device must be locked when not in use or when employee leaves the workstation
 
@@ -34,21 +35,26 @@ a. Workstation devices must meet the following criteria:
 
     i. All personal devices, Linux distros, ChromeBooks must comply with corporate IT security policy
 
-    i. Password-protected screensavers with a short timeout period (≤ 5 minutes) must be enabled to ensure that workstations that were left unsecured will be protected.
+    i. Password-protected screensavers with a short timeout period (≤ 5 minutes) must be enabled to ensure that workstations that were
+    left unsecured will be protected.
 
-    i. All restricted information must be stored on network servers, or the appropriate Privo system such as ConnectWise, LastPass, LabTech, Google Apps, etc.
+    i. All restricted information must be stored on network servers, or the appropriate Privo system such as ConnectWise, LastPass,
+    LabTech, Google Apps, etc.
 
-    i. Employee must use care to ensure no one can view their workstation screen (for example, over your shoulder) without your knowledge.
+    i. Employee must use care to ensure no one can view their workstation screen (for example, over your shoulder) without your
+    knowledge.
 
     i. All workstations must  the CW Automate Labtech agent installed to ensure security patches are applied promptly.
 
     i. Employees must apply patches for anything that is not covered by the Labtech agent when prompted install an application patch.
 
-    i. Workstations users must use a less privileged account for all day to day activities and only require local admin credentials when required.
+    i. Workstations users must use a less privileged account for all day to day activities and only require local admin credentials when
+    required.
 
 a. *Desktop & laptop devices*
 
-    i. Employees will be issued a desktop, laptop, or both by the company, based on their job duties. Contractors will provide their own laptops.
+    i. Employees will be issued a desktop, laptop, or both by the company, based on their job duties. Contractors will provide their own
+    laptops.
 
 	  i. Desktops and laptops must operate on macOS or Windows.
 
