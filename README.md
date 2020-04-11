@@ -1,6 +1,6 @@
 # Privo IT, LLC Compliance Program
 
-This repository consolidates all documents related to the {{.Name}} Compliance Program.
+This repository consolidates all documents related to the Privo IT Compliance Program.
 
 # Structure
 
